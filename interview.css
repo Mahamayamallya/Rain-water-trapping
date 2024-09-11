@@ -1,0 +1,12 @@
+#graph {
+  display: flex;
+  align-items: flex-end;
+}
+.building {
+  background-color: black;
+  border-bottom: 2px solid black;
+}
+.water {
+  background-color: blue;
+  border-bottom: 2px solid black;
+}
